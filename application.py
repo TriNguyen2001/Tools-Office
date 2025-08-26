@@ -9,7 +9,7 @@ from PySide6.QtWidgets import (
 from PySide6.QtGui import QPixmap, QImage
 
 APP_VERSION = "1.0.0"  # version hiện tại
-VERSION_URL = "https://raw.githubusercontent.com/username/repo/main/version.json"  # thay link của bạn
+VERSION_URL = "https://raw.githubusercontent.com/username/repo/main/version.json"  
 
 
 class PDFProcessor:
